@@ -1,0 +1,16 @@
+{
+  "name": "geoip-service",
+  "version": "0.0.0",
+  "description": "a simple geoip lookup service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j0shua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1",
+    "geoip-lite": "^1.1.3",
+    "validator": "^3.22.1"
+  }
+}
